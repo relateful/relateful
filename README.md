@@ -9,5 +9,5 @@ I work on various big projects using many tools like **Typescript**, **Python**,
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35660)](https://codetime.dev)
 
 Contact Me:
-- Discord: `@fe3murs` - I usually don't accept friend requests, just DM me and I'll check it out (mutual: [discord.gg/greed](https://discord.gg/greed))
+- Discord: `@fe3murs` 
 - Email: `adam@kyron.dev`
